@@ -1,0 +1,6 @@
+framework module Pods_FoodLens {
+  umbrella header "Pods-FoodLens-umbrella.h"
+
+  export *
+  module * { export * }
+}
